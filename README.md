@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+%26+Engineering+Student;At+Daffodil+International+University;Cyber+Security+Enthusiast;Passionate+Learner;Turning+ideas+into+reality+with+code&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=00F718&size=22" alt="Labib's Introduction">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Studies+in+Computer+Science+%26+Engineering;Student+ At+Daffodil+International+University;Cyber+Security+Enthusiast;Passionate+Learner;Turning+ideas+into+reality+with+code&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=00F718&size=22" alt="Labib's Introduction">
 </p>
 
 <p align="center">
